@@ -25,7 +25,7 @@ public class BubbleSort {
         }
         
         for(int notas:lista1){
-            System.out.println(notas);
+            System.out.println(notas); //novo array ordenado
         }
         
     }
